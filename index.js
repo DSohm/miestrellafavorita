@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que dirias que si uwu')
+    alert('Sabia que dirias que si Lu <3 uwu')
 });
 
 const noBtn = document.querySelector('#noBtn');
