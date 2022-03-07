@@ -3,15 +3,15 @@
 }
 
 .contenedor{
-    background: rgb(201, 191, 146);
+    background: rgb(194, 192, 194);
     width: 100vw;
-    height: 100vh;
+    height:150vh;
     text-align: center;
 }
 
 p{
     font-size: xx-large;
-    padding: 15%;
+    padding: 5%;
 }
 
 button{
